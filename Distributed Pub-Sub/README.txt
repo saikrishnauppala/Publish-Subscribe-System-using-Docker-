@@ -1,4 +1,7 @@
-Implemented using Rendezvous Algorithm (RIP).
+Implemented using Rendezvous Algorithm (RIP) :
+Breaking the eventspace into subsets through hashing and the subsets are notified by associated broker.
+Regularity is maintained by Distributed hash table
+
 This project is a emulation of Real World's Kafkas PubSub Model. 
 
 Build the docker images using 
