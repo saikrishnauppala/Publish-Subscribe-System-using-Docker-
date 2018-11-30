@@ -1,0 +1,1 @@
+CREATE TABLE ds.distributedhashtable (topic VARCHAR(50) NULL,subscriberlist VARCHAR(10000) NULL);
