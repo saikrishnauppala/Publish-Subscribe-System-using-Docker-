@@ -4,4 +4,4 @@ docker run -it --rm -p 8090:8080 --name containername imagename
 
 
 Technology Stack:
-Docker,JAVA,JSP,Servlet,JDBC,Mysql.
+Docker,JAVA,JSP,Servlet.
